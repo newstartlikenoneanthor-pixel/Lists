@@ -1210,4 +1210,81 @@
 0.0.0.0 geo2.urls-real.api.twitter.com
 0.0.0.0 api-39-4-8-39-4-5.twitter.com
 0.0.0.0 gnip-stream.twitter.com
+0.0.0.0 x.com# X.com / Twitter Main Domains
 0.0.0.0 x.com
+0.0.0.0 www.x.com
+0.0.0.0 mobile.x.com
+0.0.0.0 api.x.com
+0.0.0.0 video.x.com
+0.0.0.0 tweetdeck.twitter.com
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+
+# Shorteners / tracking
+0.0.0.0 t.co
+0.0.0.0 analytics.twitter.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 cards.twitter.com
+
+# Media / CDN
+0.0.0.0 abs.twimg.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 video.twimg.com
+0.0.0.0 cdn.syndication.twitter.com
+0.0.0.0 s3.amazonaws.com/twitter_media
+0.0.0.0 upload.twitter.com
+0.0.0.0 media.twitter.com
+
+# APIs
+0.0.0.0 api.twitter.com
+0.0.0.0 api0.twitter.com
+0.0.0.0 api1.twitter.com
+0.0.0.0 api2.twitter.com
+0.0.0.0 api3.twitter.com
+0.0.0.0 api4.twitter.com
+0.0.0.0 api5.twitter.com
+0.0.0.0 api6.twitter.com
+0.0.0.0 api7.twitter.com
+0.0.0.0 api8.twitter.com
+0.0.0.0 api9.twitter.com
+0.0.0.0 stream.twitter.com
+0.0.0.0 streaming.twitter.com
+0.0.0.0 firehose.twitter.com
+0.0.0.0 ingestion.twitter.com
+
+# Analytics / Ads / Tracking
+0.0.0.0 ads.twitter.com
+0.0.0.0 ads.x.com
+0.0.0.0 analytics.x.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 measurement.twitter.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 tracking.twitter.com
+0.0.0.0 marketing.twitter.com
+0.0.0.0 business.twitter.com
+
+# Other endpoints / embeds
+0.0.0.0 syndication.twitter.com
+0.0.0.0 card.twitter.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 cdn.syndication.twitter.com
+0.0.0.0 i.twitter.com
+0.0.0.0 api.twitter.com
+0.0.0.0 tweetdeck.twitter.com
+0.0.0.0 help.twitter.com
+0.0.0.0 developer.twitter.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 gfx.twitter.com
+0.0.0.0 blog.twitter.com
+
+# Misc / experimental / edge domains
+0.0.0.0 edge.twitter.com
+0.0.0.0 tweetdeck.twitter.com
+0.0.0.0 alt.twitter.com
+0.0.0.0 global.twitter.com
+0.0.0.0 media-api.twitter.com
+0.0.0.0 stream.twitter.com
+0.0.0.0 cdn.twitter.com
+0.0.0.0 video-api.twitter.com
+
